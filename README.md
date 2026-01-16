@@ -3,6 +3,10 @@
 
 A Python automation tool that monitors unread Gmail messages, extracts key information (From, Subject, Date, Content), and appends each record to a Google Sheet. Processed messages are marked as read to prevent duplication. The project demonstrates Gmail & Google Sheets API integration, OAuth 2.0 authentication, stateful processing, and a modular, testable codebase.
 
+## 📂 screenshot
+<img width="1466" height="835" alt="Screenshot 2026-01-16 at 10 05 37 PM" src="https://github.com/user-attachments/assets/1ecceb14-38fa-4342-b3ee-1eb0a1b13eb6" />
+<img width="1468" height="830" alt="Screenshot 2026-01-16 at 10 07 18 PM" src="https://github.com/user-attachments/assets/a424a36f-869d-41e1-a543-4caa18f54b10" />
+
 Table of contents
 - Overview
 - Features
@@ -183,12 +187,7 @@ Future improvements
 - Logging, metrics, and a small dashboard for monitoring
 - Containerization (Docker) and cloud deployment options (Cloud Run, Cloud Functions)
 
-Contributing
-------------
-Contributions are welcome:
-- Open an issue to discuss major changes.
-- Keep pull requests focused and include tests where appropriate.
-- Follow the existing code style and update documentation.
+
 
 License
 -------
